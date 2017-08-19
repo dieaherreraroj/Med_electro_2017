@@ -4,7 +4,7 @@ Para organizar tus notas has creado un
 repositorio virtual en github. Su enla-
 ce es:
 
-https://github.com/dieaherreraroj/Electro_mag_2017.git
+https://github.com/dieaherreraroj/Med_electro_2017.git
 
 Recuerda que puedes seguir el progreso
 de tus notas de clase y temas estudia-
